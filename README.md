@@ -1,0 +1,1 @@
+This project will demonstrate the foundations level understanding of HTML. A few recipes will be linked to a basic homepage. It won't be pretty, but that's okay. 
